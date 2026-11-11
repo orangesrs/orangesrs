@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @orangesrs
-- 👀 I’m interested in learning about the world & how we can improve it through econometrics! 
-- 🌱 I’m currently learning about data privacy, evaluating predictive algorithms' fairness, Bayesian statistics and very basic ML in classes. I'm also always working on my R and Python
-- 💞️ I’m looking to collaborate on anything data science, since I'm still pretty new. Especially opportunities to practice building ML algorithms
-- 📫 How to reach me: My email is sarah.jiang02@gmail.com, plus sjian056@ucr.edu if it hasn't been deleted by UCR ITS yet 🥰
-- 😄 Pronouns: they
-- ⚡ Fun fact: I started college in public policy, took a soft left into economics, and then a harder one towards data science.
+- Hi, I’m Run.
+- I’m interested in learning about the world & how we can improve it through econometrics! 
+- Email: sarah.jiang02@gmail.com
 
 <!---
 orangesrs/orangesrs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
